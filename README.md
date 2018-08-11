@@ -10,8 +10,6 @@ HSR algorithm
 
 Neoscrypt algorithm
 
-Product contains devfee 1% (0.5% for me, 0.5% for alexkap) and will be close-sourced, but voluntary work won't be abandoned.
-
-Please, send feedback to hsrminer thread on bitcointalk - https://bitcointalk.org/index.php?topic=2565979
+Current miner is obsolete and won't be developed anymore. For testing purpose only.
 
 Thanks for viewing this page and have a nice day! ;)
